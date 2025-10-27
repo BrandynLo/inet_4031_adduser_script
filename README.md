@@ -13,6 +13,7 @@ Password (Field 2): The password for the account.
 Last Name (Field 3): The user’s last name, used in the GECOS field.
 First Name (Field 4): The user’s first name, used in the GECOS field.
 Groups (Field 5): A comma-separated list of groups the user belongs to. If no groups are desired, use '-' called hyphens.
+
 **Command Excuction**
 Set the Python file to be executable. Changing the modification using chmod x is an option. Then run the command ./create-users.py < createusers.input 
 
